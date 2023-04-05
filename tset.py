@@ -1,6 +1,2 @@
-import itertools
-
-x = list(itertools.product('ABDC', repeat=5))
-
+x = input()
 print(x)
-# comment
