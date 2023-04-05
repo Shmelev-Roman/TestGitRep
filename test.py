@@ -5,4 +5,4 @@ def f(n):
         return 32
     else:
         return n * 2
-print(f(45552))
+print(f(4555))
